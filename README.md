@@ -1,2 +1,8 @@
-# Book-Matematicas_ML_1ed
-Repositorio de codigo usado en el libro "Matemáticas Aplicadas para Machine Learning", Jheser Guzman y Jhohan Guzman
+# Book: Matemáticas Aplicadas para Machine Learning, 1ra Edición
+Autores:  Jheser Guzman, Jhohan Guzman
+
+# Fe de Erratas
+
+| Pagina | Párrafo | Corrección |
+|-------|-------|-------|
+| | | |
